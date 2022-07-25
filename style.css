@@ -98,6 +98,10 @@ button:hover {
         width: 170px;
         height: 50px;
     }
+
+    #output-text {
+        margin-bottom: 100px;
+    }
 }
 
 @media (max-width: 375px) {
@@ -118,5 +122,9 @@ button:hover {
         width: 140px;
         height: 40px;
         font-size: 17px;
+    }
+
+    #output-text {
+        margin-bottom: 100px;
     }
 }
